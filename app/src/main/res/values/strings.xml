@@ -8,4 +8,6 @@
     <string name="round_up_total">round up total</string>
     <string name="calculate_vat">calculate vat</string>
     <string name="value_added_tax_calculation">Value-added tax calculation</string>
+
+    <string name="total_amount">Total Amount: %s</string>
 </resources>
